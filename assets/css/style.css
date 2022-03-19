@@ -78,7 +78,7 @@ section{
 
  .hero{
     height: 600px;
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../images/flipped-hero-image.jpg") ;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -279,3 +279,20 @@ section h3{
     color: #fce139;
 }
 
+.start-building-habits{
+    color: yellow;
+    text-align: left;
+    border: 3px red solid;
+    display: inline-block;
+    text-align: center;
+    margin-left: 5%;
+}
+
+.start-building-habits h2{
+    font-size: 48px;
+    
+    }
+
+.start-building-habits p{
+    color: white;
+}
